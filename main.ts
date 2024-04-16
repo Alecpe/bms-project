@@ -1,1 +1,1 @@
-
+game.splash("INTRODUCING THE BODIES", "FUNCTIONS")
