@@ -6,7 +6,11 @@
         "animation": "*",
         "sprite-scaling": "*",
         "arcade-minimap": "github:microsoft/arcade-minimap#v0.6.1",
-        "Timers": "github:microsoft/arcade-timers#v1.1.0"
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "darts": "*",
+        "radio-broadcast": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#6cfbf925b9a4d5ddf3e1078e6cf6ca6a1aebb301",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0"
     },
     "files": [
         "main.blocks",
@@ -14,7 +18,9 @@
         "README.md",
         "assets.json",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -34,7 +40,7 @@
         "#FF93C4",
         "#FF8135",
         "#FFF609",
-        "#249CA3",
+        "#BF9765",
         "#78DC52",
         "#003FAD",
         "#87F2FF",
